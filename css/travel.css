@@ -1,3 +1,11 @@
+.text-yellow {
+  color: yellow;
+}
+a, a:hover {
+  text-decoration: none;
+  color: white;
+}
+
 /* CSS for travel site */
 .border-rounded {
   border-radius: 25px;
